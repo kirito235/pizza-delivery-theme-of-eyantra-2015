@@ -89,7 +89,7 @@ void adjust_left()
 		{
 			break;
 		}
-		velocity(200,200);
+		velocity(200,220);
 		left();//this will take left turn until it find black line
 
 
